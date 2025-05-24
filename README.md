@@ -1,7 +1,21 @@
 Chat Server Link:
 
-https://rekitctrl.github.io/Online-Chat/
+    https://rekitctrl.github.io/Online-Chat/
 
 Warning:
 
-Duplicate chatroom names will cause you to connect to the previously existing chat if it is still active, codes are not generated randomly. This will be patched in a future update.
+    As of now, there is no encryption or protection features implemented. There will be in future updates.
+
+Future Updates:
+
+    Prevent duplicate room names
+    
+    Set a room passcode
+    
+    Lock a room to prevent new users from joining
+    
+    Add image, video, and audio support
+    
+    Encryption
+    
+    Improved UI
