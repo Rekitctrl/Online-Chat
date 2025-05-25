@@ -7,8 +7,6 @@ Warning:
 As of now, there is no encryption or protection features implemented. There will be in future updates.
 
 Future Updates:
-
-Prevent duplicate room names
     
 Set a room passcode
     
