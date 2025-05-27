@@ -12,11 +12,11 @@ function randomEmoji() {
 
 // Application variables
 const emoji = randomEmoji();
-let name = prompt("What's your name?") || "Anonymous";
+let name = prompt("What's your name?");
 
 // Validate name
 while (!name || name.trim() === '') {
-  name = prompt("Please enter a valid name:") || "Anonymous";
+  name = prompt("Please enter a valid name:");
 }
 name = name.trim();
 
