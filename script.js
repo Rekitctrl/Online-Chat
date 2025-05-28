@@ -155,7 +155,7 @@ drone.on('open', error => {
       handleError('Failed to join chat room', error);
       return;
     }
-    console.log('Connected to room:', roomName);
+    console.log('Room Code:', roomName);
     isConnected = true;
     showStatus('Connected - Ready to chat!');
     insertSystemMessage('Connected to chat room! 🎉');
@@ -497,7 +497,7 @@ function init() {
   });
 
   // Add some helpful commands
-  insertSystemMessage('💡 Tip: Share this URL with others to invite them to chat!');
+  insertSystemMessage('💡 Tip: Share this code with others to invite them to chat!');
 }
 
 // Start the application
