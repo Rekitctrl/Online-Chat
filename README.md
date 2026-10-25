@@ -1,15 +1,17 @@
-Chat Server Link:
+## Chat Server Link:
 
 https://rekitctrl.github.io/Online-Chat/
 
-Warning:
+## Warnings:
 
 As of now, there is no encryption or protection features implemented.
 
-Future Updates:
+## Future Updates:
     
 Lock a room to prevent new users from joining
     
 Add image support
     
 Improved UI
+
+Add encryption
